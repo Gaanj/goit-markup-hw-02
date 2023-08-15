@@ -13,11 +13,11 @@ body {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.section1{
-  background-color:#2e2f42;
+.section1 {
+  background-color: #2e2f42;
 }
-.title-h1{
-  color: var(--white, #FFF);
+.title-h1 {
+  color: var(--white, #fff);
   text-align: center;
   font-family: Roboto;
   font-size: 56px;
@@ -34,11 +34,11 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
 }
-.button-1:hover{
-  background-color: #404BBF;
+.button-1:hover {
+  background-color: #404bbf;
 }
-.button-1:focus{
-  background-color: #404BBF;
+.button-1:focus {
+  background-color: #404bbf;
 }
 .logol {
   color: #4d5ae5;
@@ -46,7 +46,7 @@ body {
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17; 
+  line-height: 1.17;
   letter-spacing: 0.54px;
   text-transform: uppercase;
   text-decoration: none;
