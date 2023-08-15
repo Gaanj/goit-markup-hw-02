@@ -13,28 +13,31 @@ body {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
+.title-h1{
+  color: var(--white, #FFF);
+  text-align: center;
+  
+  /* Header 1 */
+  font-family: Roboto;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 60px; /* 107.143% */
+  letter-spacing: 1.12px;
+}
 button {
   cursor: pointer;
 }
-p {
-  font-size: 16px;
-}
-h3 {
-  font-size: 20px;
-}
-h2 {
-  font-size: 36px;
-}
+
 .logol {
-  color: #4d5ae5;
-  font-family: 'Raleway', sans-serif;
-  font-size: 18px;
+  color: #FFF;
+  text-align: center;
+  font-family: Roboto;
+  font-size: 56px;
   font-style: normal;
   font-weight: 700;
-  line-height: 1.17; /* 116.667% */
-  letter-spacing: 0.54px;
-  text-transform: uppercase;
-  text-decoration: none;
+  line-height: 60px;
+  letter-spacing: 1.12px;
 }
 .logoll {
   color: #2e2f42;
@@ -74,4 +77,13 @@ ul {
 
 .contact {
   font-style: normal;
+}
+p {
+  font-size: 16px;
+}
+h3 {
+  font-size: 20px;
+}
+h2 {
+  font-size: 36px;
 }
