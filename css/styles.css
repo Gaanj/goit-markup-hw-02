@@ -13,11 +13,12 @@ body {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
+.section-1{
+  background-color:#2e2f42;
+}
 .title-h1{
   color: var(--white, #FFF);
   text-align: center;
-  
-  /* Header 1 */
   font-family: Roboto;
   font-size: 56px;
   font-style: normal;
@@ -25,10 +26,20 @@ body {
   line-height: 1.07;
   letter-spacing: 1.12px;
 }
-button {
+.button-1 {
   cursor: pointer;
+  background-color: #4d5ae5;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #ffffff;
 }
-
+.button-1:hover{
+  background-color: #404BBF;
+}
+.button-1:focus{
+  background-color: #404BBF;
+}
 .logol {
   color: #4d5ae5;
   font-family: 'Raleway', sans-serif;
