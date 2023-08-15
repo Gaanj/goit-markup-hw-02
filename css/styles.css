@@ -65,7 +65,10 @@ ul {
   color: #434455;
   text-decoration: none;
 }
-.contact-src :hover, :focus{
+.contact-src :hover{
+  color: #404bbf
+}
+.contact-src :focus{
   color: #404bbf
 }
 .contact{
