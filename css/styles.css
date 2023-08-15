@@ -59,7 +59,6 @@ ul {
   color: #434455;
   text-decoration: none;
 }
-
 .contact {
   font-style: normal;
 }
@@ -90,7 +89,13 @@ ul {
 .button-l:focus {
   background-color: #404bbf;
 }
-.title-hiden{
+.title-hlll {
+  color: #2e2f42;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.4px;
 }
 p {
   font-size: 16px;
