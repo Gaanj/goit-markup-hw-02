@@ -1,49 +1,54 @@
-body{
-    font-family: "Roboto", sans-serif;
-    color: #434455;
-    background-color: #FFF;
-    text-decoration: none;
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #fff;
+  text-decoration: none;
 }
-.navigation{
-    color: #2E2F42;
-    font-family:  "Roboto", sans-serif;
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-    text-decoration: none;
+.navigation {
+  color: #2e2f42;
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+  letter-spacing: 0.32px;
 }
+button {
+  cursor: pointer;
+}
+p {
+  font-size: 16px;
+}
+h3 {
+  font-size: 20px;
+}
+h2 {
+  font-size: 36px;
+}
+.logol {
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.17; /* 116.667% */
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
 
-button{
-    cursor: pointer;
+  text-decoration: none;
 }
-p{
-    font-size: 16px;
+.logoll {
+  color: #2e2f42;
+  text-decoration: none;
 }
-h3{
-    font-size: 20px;
-}
-h2{
-    font-size: 36px;
-}
-.logol{
-    color: #4D5AE5;
-font-family: "Raleway", sans-serif;
-font-size: 18px;
-font-style: normal;
-font-weight: 700;
-line-height: 1.17; /* 116.667% */
-letter-spacing: 0.54px;
-text-transform: uppercase;
-}
-.logoll{
-    color: #2e2f42;
-}
-.logo-lll{
-    color: #F4F4FD;
-}
-ul{
+.logolll {
+  color: #f4f4fd;
 
-    list-style-type:none;
+  text-decoration: none;
+}
+ul {
+  list-style-type: none;
+}
+.link-tab{
+      text-decoration: none;
 }
