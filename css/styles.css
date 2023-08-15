@@ -13,11 +13,13 @@ body {
   line-height: 24px;
   letter-spacing: 0.32px;
 }
-.section1 {
+.sectionl {
   background-color: #2e2f42;
-  font-family: 'Roboto', sans-serif;
+  width: 1440px;
+height: 600px;
+flex-shrink: 0;
 }
-.title-h1 {
+.title-hl {
   color: var(--white, #fff);
   text-align: center;
   font-family: Roboto;
@@ -26,21 +28,19 @@ body {
   font-weight: 700;
   line-height: 1.07;
   letter-spacing: 1.12px;
-  font-family: 'Roboto', sans-serif;
 }
-.button-1 {
+.button-l {
   cursor: pointer;
   background-color: #4d5ae5;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #ffffff;
-  font-family: 'Roboto', sans-serif;
 }
-.button-1:hover {
+.button-l:hover {
   background-color: #404bbf;
 }
-.button-1:focus {
+.button-l:focus {
   background-color: #404bbf;
 }
 .logol {
