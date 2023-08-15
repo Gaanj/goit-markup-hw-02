@@ -68,3 +68,6 @@ ul {
 .contact-src :hover, :focus{
   color: #404bbf
 }
+.contact{
+  font-style: normal;
+}
