@@ -97,12 +97,31 @@ ul {
   line-height: 24px;
   letter-spacing: 0.4px;
 }
-.psl{
+.psl {
   font-size: 16px;
   font-style: normal;
   font-weight: 400;
   line-height: 24px;
-  letter-spacing: 0.32px; 
+  letter-spacing: 0.32px;
+}
+.section-lll {
+  background-color: #f4f4fd;
+}
+.title-hll {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 40px; /* 111.111% */
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
+  text-align: center;
+}
+.list-team {
+  border-radius: 0px 0px 4px 4px;
+  background: var(--white, #fff);
+  box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08),
+    0px 1px 1px 0px rgba(46, 47, 66, 0.16),
+    0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 p {
   font-size: 16px;
