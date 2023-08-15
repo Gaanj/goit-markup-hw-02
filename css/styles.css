@@ -161,3 +161,11 @@ h3 {
 h2 {
   font-size: 36px;
 }
+.footer-set{
+background-color: #2e2f42;
+}
+.pf{
+  line-height: 1.5;
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
+}
