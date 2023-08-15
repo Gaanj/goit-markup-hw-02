@@ -1,12 +1,12 @@
 body {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   color: #434455;
   background-color: #fff;
   text-decoration: none;
 }
 .navigation {
   color: #2e2f42;
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 16px;
   font-style: normal;
   font-weight: 500;
@@ -27,14 +27,13 @@ h2 {
 }
 .logol {
   color: #4d5ae5;
-  font-family: "Raleway", sans-serif;
+  font-family: 'Raleway', sans-serif;
   font-size: 18px;
   font-style: normal;
   font-weight: 700;
   line-height: 1.17; /* 116.667% */
   letter-spacing: 0.54px;
   text-transform: uppercase;
-
   text-decoration: none;
 }
 .logoll {
@@ -49,6 +48,13 @@ h2 {
 ul {
   list-style-type: none;
 }
-.link-tab{
-      text-decoration: none;
+.tabs{
+  text-decoration: none;
+  color: #2e2f42;
+}
+.tabs :hover{
+  color: #404bbf;
+}
+.tabs :focus{
+  color: #404bbf;
 }
