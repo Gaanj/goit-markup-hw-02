@@ -52,11 +52,8 @@ ul {
   text-decoration: none;
   color: #2e2f42;
 }
-.tabs :hover{
-  color: #404bbf;
-}
-.tabs :focus{
-  color: #404bbf ;
+.tabs:hover .tabs:focus{
+  color:#404bbf;
 }
 .contact-src{
   font-style: normal;
@@ -65,10 +62,7 @@ ul {
   color: #434455;
   text-decoration: none;
 }
-.contact-src :hover{
-  color: #404bbf
-}
-.contact-src :focus{
+.contact-src:hover .contact-src:focus{
   color: #404bbf
 }
 .contact{
