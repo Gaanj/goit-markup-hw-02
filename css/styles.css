@@ -48,23 +48,30 @@ h2 {
 ul {
   list-style-type: none;
 }
-.tabs{
+.tabs {
   text-decoration: none;
   color: #2e2f42;
 }
-.tabs:hover .tabs:focus{
-  color:#404bbf;
+.tabs:hover {
+  color: #404bbf;
 }
-.contact-src{
+.tabs:focus {
+  color: #404bbf;
+}
+.contact-src:hover {
+  color: #404bbf;
+}
+.contact-src:focus {
+  color: #404bbf;
+}
+.contact-src {
   font-style: normal;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
   text-decoration: none;
 }
-.contact-src:hover .contact-src:focus{
-  color: #404bbf
-}
-.contact{
+
+.contact {
   font-style: normal;
 }
